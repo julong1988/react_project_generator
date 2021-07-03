@@ -1,0 +1,66 @@
+{
+  "name": "julong_cmd",
+  "version": "1.0.14",
+  "description": "react_project",
+  "main": "index.js",
+  "bin": {
+    "jl_react": "./bin/react.js",
+    "gen_react": "./bin/react.js"
+  },
+  "scripts": {
+    "start": "babel-node ./src/bin/react/main",
+    "build": "cross-env NODE_ENV=production ENTRY=./src/bin/react/main.js OUTPUT_FILENAME=react.js webpack",
+    "lint": "eslint --ext .js ./src/",
+    "fix": "eslint --fix --ext .js ./src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:julong1988/react_project_generator.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/julong1988/react_project_generator/issues",
+    "email" : "julong1988@naver.com"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/julong1988",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "enquirer": "^2.3.6",
+    "minimist": "^1.2.5",
+    "terminal-link": "^2.1.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/node": "^7.10.5",
+    "@babel/plugin-syntax-top-level-await": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "app-root-path": "^3.0.0",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "babel-preset-minify": "^0.5.1",
+    "cross-env": "^7.0.2",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.5",
+    "eslint-plugin-react-hooks": "^4.0.0",
+    "husky": "^4.2.5",
+    "nodemon": "^2.0.4",
+    "npm-run-all": "^4.1.5",
+    "ora": "^5.0.0",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1",
+    "semantic-release": "^17.4.4",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
