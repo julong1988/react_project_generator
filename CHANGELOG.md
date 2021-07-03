@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/julong1988/react_project_generator/compare/v1.0.2...v1.0.3) (2021-07-03)
+
+
+### Bug Fixes
+
+* **package:** 패키지명 변경 ([09f1a79](https://github.com/julong1988/react_project_generator/commit/09f1a793fe4136b001fe3a6cc01ed640b2da6218))
+
 ## [1.0.2](https://github.com/julong1988/react_project_generator/compare/v1.0.1...v1.0.2) (2021-07-03)
 
 
