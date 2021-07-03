@@ -1,6 +1,6 @@
 {
   "name": "julong_cmd",
-  "version": "1.0.14",
+  "version": "1.0.0",
   "description": "react_project",
   "main": "index.js",
   "bin": {
@@ -18,8 +18,8 @@
     "url": "https://github.com/julong1988/react_project_generator.git"
   },
   "bugs": {
-    "url" : "https://github.com/julong1988/react_project_generator/issues",
-    "email" : "julong1988@naver.com"
+    "url": "https://github.com/julong1988/react_project_generator/issues",
+    "email": "julong1988@naver.com"
   },
   "keywords": [],
   "author": "",
