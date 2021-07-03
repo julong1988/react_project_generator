@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/julong1988/react_project_generator/compare/v1.0.0...v1.0.1) (2021-07-03)
+
+
+### Bug Fixes
+
+* **package:** access public ([82e13df](https://github.com/julong1988/react_project_generator/commit/82e13df951227b7085a73ed882eca9f32e49be4b))
+
 # 1.0.0 (2021-07-03)
 
 
