@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/julong1988/react_project_generator/compare/v1.0.1...v1.0.2) (2021-07-03)
+
+
+### Bug Fixes
+
+* **package:** 버전 수동 업데이트 ([b98cbd6](https://github.com/julong1988/react_project_generator/commit/b98cbd66737fe2270fc86f28e01657dfd79535c2))
+
 ## [1.0.1](https://github.com/julong1988/react_project_generator/compare/v1.0.0...v1.0.1) (2021-07-03)
 
 
