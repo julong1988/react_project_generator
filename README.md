@@ -9,14 +9,14 @@ typescript or es(babel), antDesign
 
 #### install global
 ```sh
-npm install -g julong_cmd
+npm install -g @julong/cmd
 # or 
-yarn global add julong_cmd
+yarn global add @julong/cmd
 ```
 
 #### install local
 ```sh
-npx julong_cmd init
+npx @julong/cmd init
 ```
 
 #### generator project

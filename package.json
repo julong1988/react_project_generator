@@ -1,5 +1,5 @@
 {
-  "name": "julong_cmd",
+  "name": "@julong/cmd",
   "version": "1.0.2",
   "description": "react_project",
   "main": "index.js",
