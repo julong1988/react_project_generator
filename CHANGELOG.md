@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/julong1988/react_project_generator/compare/v1.0.4...v1.0.5) (2021-07-04)
+
+
+### Bug Fixes
+
+* **ignore:** npmignore수정2 ([b05267d](https://github.com/julong1988/react_project_generator/commit/b05267d7854519db4a0d6d1289b7122211c75f6d))
+
 ## [1.0.4](https://github.com/julong1988/react_project_generator/compare/v1.0.3...v1.0.4) (2021-07-04)
 
 
