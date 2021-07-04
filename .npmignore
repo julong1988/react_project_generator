@@ -2,3 +2,6 @@ src
 webpack.config.js
 node_modules
 tmp
+.github
+.eslintrc.json
+.prettierrc.json
