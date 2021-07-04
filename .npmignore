@@ -5,3 +5,4 @@ tmp
 .github
 .eslintrc.json
 .prettierrc.json
+.releaserc.json
