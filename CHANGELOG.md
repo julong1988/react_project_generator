@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/julong1988/react_project_generator/compare/v1.0.5...v1.0.6) (2021-10-09)
+
+
+### Bug Fixes
+
+* **common:** cross-env적용 ([e08712c](https://github.com/julong1988/react_project_generator/commit/e08712cda61ea210c4ddd1d2640e874130d62e31))
+
 ## [1.0.5](https://github.com/julong1988/react_project_generator/compare/v1.0.4...v1.0.5) (2021-07-04)
 
 
