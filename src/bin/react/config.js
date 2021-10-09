@@ -20,6 +20,7 @@ const pkg = {
       "autoprefixer postcss postcss-loader cssnano",
       "eslint eslint-loader husky",
       "prettier eslint-config-prettier eslint-plugin-prettier pretty-quick",
+      "cross-env"
     ],
     p: ["eslint-config-airbnb"],
   },
