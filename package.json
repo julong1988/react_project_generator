@@ -1,6 +1,6 @@
 {
   "name": "@julong/cmd",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "react_project",
   "main": "index.js",
   "bin": {

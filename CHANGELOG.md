@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/jl917/react_project_generator/compare/v1.0.6...v1.0.7) (2021-11-13)
+
+
+### Bug Fixes
+
+* julong1988 => jl917 ([db8bac1](https://github.com/jl917/react_project_generator/commit/db8bac188ea33ebb0acc98d50baf14b568fce4d0))
+
 ## [1.0.6](https://github.com/jl917/react_project_generator/compare/v1.0.5...v1.0.6) (2021-10-09)
 
 
