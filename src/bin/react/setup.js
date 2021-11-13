@@ -10,7 +10,7 @@ const isDirectory = require("../../utils/isDirectory");
 // process.cwd() - 执行cli 目录
 // console.log(module.path)
 
-console.log(terminalLink("github - ", "https://github.com/julong1988"));
+console.log(terminalLink("github - ", "https://github.com/jl917"));
 
 if (argv._[0] && !command.includes(argv._[0])) {
   console.log(chalk.red("지원하지 않는 명령입니다."));

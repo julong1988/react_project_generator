@@ -15,16 +15,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/julong1988/react_project_generator.git"
+    "url": "https://github.com/jl917/react_project_generator.git"
   },
   "bugs": {
-    "url": "https://github.com/julong1988/react_project_generator/issues",
+    "url": "https://github.com/jl917/react_project_generator/issues",
     "email": "julong1988@naver.com"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/julong1988",
+  "homepage": "https://github.com/jl917",
   "dependencies": {
     "chalk": "^4.1.0",
     "enquirer": "^2.3.6",
