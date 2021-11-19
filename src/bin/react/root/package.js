@@ -17,7 +17,7 @@ module.exports = ({ name, typescript }) => `{
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": ""
   },

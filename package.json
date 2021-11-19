@@ -23,7 +23,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/jl917",
   "dependencies": {
     "chalk": "^4.1.0",
