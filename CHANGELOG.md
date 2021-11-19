@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/jl917/react_project_generator/compare/v1.0.7...v1.0.8) (2021-11-19)
+
+
+### Bug Fixes
+
+* package 라이센스 수정 ISC => MIT ([b1b4592](https://github.com/jl917/react_project_generator/commit/b1b4592c02dcb63c00ec8fe2b0120e1ef756517d))
+
 ## [1.0.7](https://github.com/jl917/react_project_generator/compare/v1.0.6...v1.0.7) (2021-11-13)
 
 
